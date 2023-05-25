@@ -1,0 +1,464 @@
+li{display: inline;
+    font-size: 13px;
+}
+#a1{
+    margin-left: 100px;
+    color: orangered;
+
+}
+#a2{
+    margin-left: 40px;
+}
+#a3{
+ margin-left: 40px;
+}
+#a4{
+    margin-left: 40px;
+}
+#a5{
+    margin-left: 40px;
+}
+#a6{
+    margin-left: 40px;
+}
+#a7{
+    margin-left: 40px;
+}
+#a8{
+    margin-left: 40px;
+}
+#a1:hover{
+    text-decoration: underline;
+}
+#a2:hover{
+    text-decoration: underline;
+    color: orangered;
+}
+#a3:hover{
+    text-decoration: underline;
+    color: orangered;
+}
+#a4:hover{
+    text-decoration: underline;
+    color: orangered;
+}
+#a5:hover{
+    text-decoration: underline;
+    color: orangered;
+}
+#a6:hover{
+    text-decoration: underline;
+    color: orangered;
+}
+#a7:hover{
+    text-decoration: underline;
+    color: orangered;
+}
+#a8:hover{
+    text-decoration: underline;
+    color: orangered;
+}
+#a9{
+    width: 100px;
+    margin-left: 100px;
+}
+#a10{
+    width: 700px;
+    height: 40px;
+    margin-left: 80px;
+}
+#a11{
+    width: 30px;
+    margin-left:40px;
+}
+#a12{
+    width: 200px;
+    margin-left:40px;
+}
+#a13{
+    width: 900px;
+    height: 200px;
+    margin-left: 200px;
+    margin-top: 30px;
+    display: block;
+}
+#aa{
+    width: 1330px;
+height: 390px;
+}
+#qq{
+    width: 1200px;
+}
+.nn{
+    display: inline;
+    margin-left: 210px;
+}
+#a14{
+    margin-left: 30px;
+}
+#a15{
+    color: orangered;
+}
+#a16{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 180px;
+}
+#a17{
+    color: aqua;
+}
+
+#sa1{
+    display: block;
+}
+#a19{
+    margin-left: 50px;
+}
+#ul1{
+    background-color: silver
+}
+#a20{
+    margin-left: 50px;
+    color: orangered;
+}
+#b{
+    text-decoration: line-through;
+    margin-left: 50px;
+    display: inline;
+}
+#para{
+    display: inline;
+    margin-left: 6px;
+}
+#card1{
+    width: 300px;
+    display: inline-block;
+    margin-left: 50px;
+}
+#para1{
+    display: inline-block;
+    text-decoration: line-through;
+}
+#para2{
+    display: inline-block;
+    margin-left: 6px;
+}
+#para3{
+    color: orangered;
+}
+#para5{
+    display: inline-block;
+    text-decoration: line-through;
+}
+#para6{
+    display: inline-block;
+    margin-left: 6px;
+}
+#para4{
+    color: orangered;
+}
+#div1{
+    display: inline-block;
+}
+#div2{
+    display: inline-block;
+}
+#div3{
+    display: inline-block;
+}
+#card1{
+    width: 300px;
+}
+#card2{
+    width: 300px;
+}
+#card3{
+    width: 300px;
+}
+#para7{
+    color: orangered;
+}
+#para8{
+    display: inline-block;
+    text-decoration: line-through;
+}
+#para9{
+    display: inline-block;
+    margin-left: 6px;
+}
+#card1:hover{
+box-shadow: 4px 4px 4px black;
+}
+#card2:hover{
+box-shadow: 4px 4px 4px black;
+
+}
+#card3:hover{
+box-shadow: 4px 4px 4px black;
+
+        }
+        #crad4{
+            width: 300px;
+        }    
+        #card4:hover{
+box-shadow: 4px 4px 4px black;
+
+            }
+            #para11{
+                color: orangered;
+            }
+            #para12{
+                display: inline-block;
+                text-decoration: line-through;
+            }
+            #para13{
+                display: inline-block;
+                margin-left: 6px;
+            } 
+           #card5{
+                width: 350px;
+            }
+            #card5:hover{
+                box-shadow: 4px 4px 4px;
+                }
+            #div4{
+                display: inline-block;
+           } 
+            #div5{
+                display: inline-block;
+            } 
+            #cap1{
+                color: orangered;
+            }
+            #cap2{
+                display: inline-block;
+                text-decoration: line-through;
+            }
+            #cap3{
+                display: inline-block;
+                margin-left: 6px;
+            }  
+            #div6{
+                display: inline-block;
+            }
+            #cap4{
+                color: orangered;
+            }
+            #cap5{
+                display: inline-block;
+                text-decoration: line-through;
+            }
+            #cap6{
+                display: inline-block;
+                margin-left: 6px;
+            }    
+            #card6{
+                width: 350px;
+            }
+            #card6:hover{
+                box-shadow: 4px 4px 4px;
+                }
+                #foot1{
+                    display: block;
+                    font-size: larger;
+                    color: white;
+                }
+                #foot2{
+                    display: block;
+                    color: white;
+                    margin-top: 10px;
+                    display: inline-block;
+                }
+                #foot3{
+                    display: inline-block;
+                    color: white;
+                    font-size: larger;
+                    margin-left: 270px;
+                }
+                #foot4{
+                    display: block;
+                    color: white;
+                    
+                }
+               #foot5{
+                display: inline-block;
+                color: white;
+                margin-left: 330px;
+                display: block;
+               }
+               #foot6{
+                display: block;
+                color: white;
+                margin-bottom: 10px;
+            }
+            #foot7{
+                margin-bottom: 10px;
+                color: white;
+                margin-left: 330px;
+                display: block;
+               }
+               #foot8{
+                display: block;
+                color: white;
+                 }
+                 #foot9{
+                    display: block;
+                    color: white;
+                     }
+                     #foot10{
+                        display: block;
+                        color: white;
+                         }
+                         #foota1{
+                            display: block;
+                            color: white;
+                             }
+                             #foota2{
+                                display: block;
+                                color: white;
+                                 }
+                             #footb1{
+                                display: block;
+                                font-size: larger;
+                                 color: white;
+                             }
+                             #footb2{
+                                display: block;
+                                color: white;
+                                margin-top: 10px;
+                                 }
+                                 #footb3{
+                                    display: block;
+                                    color: white;
+                                     }
+                                     #footb4{
+                                        display: block;
+                                        color: white;
+                                         }
+                                          #footc1{
+                                            display: block;
+                                            font-size: larger;
+                                             color: white;
+                                         }
+                                        #footcc2{
+                                            margin-top: 10px;
+                                            display: block;
+                                             color: white;
+                                         }
+                                         .footc2{
+                                            display: block;
+                                             color: white;
+                                         }
+                                         #footdiv2,#footdiv3{
+                                            display: inline-block;
+                                            
+                                         }
+                                         #footdiv2{
+                                            margin-bottom: 50px;
+                                         }
+                                         #footpic1{
+                                            width: 100px;
+                                            margin-left: 100px;
+                                         }
+                                         #footdiv1,#footpic1{
+                                             display: inline-block;
+                                         }
+                                         #footpic2{
+                                            width: 100px;
+                                            display: inline-block;
+                                            
+                                         }
+                                         #footp1,#footp2{
+                                            margin-left: 850px;
+                                            display: block;
+                                         }
+                                         #footp1{
+                                            color: orangered;
+                                            display: block;
+                                         }
+                                         #footp2{
+                                            color: white;
+                                            display: block;
+                                        }
+                                         #footpic3{
+                                            margin-left: 800px;
+                                            width: 150px;
+                                         }
+                                         #footpic4{
+                                            margin-left: 800px;
+                                            width: 150px;
+                                         }
+                                         #footpic5{
+                                            margin-left: 800px;
+                                            width: 150px;
+                                         }
+                                         #pfi{
+                                            border: 2px solid orangered;
+                                            width: 400px;
+                                            color: orangered;
+                                            text-align: center;
+                                            margin-left: 400px;
+                                            margin-bottom: 10px;
+                                            height: 40px;
+                                            background-color: white;
+                                         }
+                                         #pfi:hover{
+                                            cursor: pointer;
+                                         }
+                                         
+                                         #bttn1{
+                                            width: 300px;
+                                            height: 30px;
+                                            margin-top: 10px;
+
+                                         }
+                                         #bttn1:hover{
+                                            color: green;
+                                         }
+                                         #btn2{
+                                            width: 30px;
+                                         }
+                                         #bttn2{
+                                            width: 300px;
+                                            margin-left: 50px;
+                                            margin-top: 10px;
+                                         }
+                                         #bttn2:hover{
+                                            color: green;
+                                         }
+                                         #btn3{
+                                            width:30px;
+                                         }
+                                         #bttn3{
+                                            width: 300px;
+                                            margin-left: 50px;
+                                            margin-top: 10px;
+                                         }
+                                         #bttn3:hover{
+                                            color: green;
+                                         }
+                                         #btn4{
+                                            width:20px;
+                                         }
+                                         #bttn4{
+                                            width: 250px;
+                                            margin-left: 50px;
+                                            margin-top: 10px;
+                                            }
+                                         #bttn4:hover{
+                                            color: green;
+                                         }
+                                         #bttn1,#bttn2,#bttn3,#bttn4{
+                                            border-radius: 15px;
+                                            border-color: white;
+                                         }
+                                         #bttn1,#bttn2,#bttn3,#bttn4{
+                                            height: 40px;
+                                         }
+                                         .hov:hover{
+                                            text-decoration: underline;
+                                         }
+                  footer{
+                    background-color: black;
+                    width: 100%;
+                    height: 100%;
+                }
